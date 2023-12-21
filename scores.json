@@ -1,0 +1,66 @@
+{
+    "random": {
+        "highest_score": 2032,
+        "top_value": 256,
+        "most_moves": 167,
+        "average_score": 961.28,
+        "average_top_value": 97.28,
+        "average_moves": 108.48
+    },
+    "highest_score": {
+        "highest_score": 5460,
+        "top_value": 512,
+        "most_moves": 385,
+        "average_score": 2160.48,
+        "average_top_value": 174.08,
+        "average_moves": 199.16
+    },
+    "maximize_empty_tiles": {
+        "highest_score": 5528,
+        "top_value": 512,
+        "most_moves": 392,
+        "average_score": 2331.84,
+        "average_top_value": 193.92,
+        "average_moves": 208.06
+    },
+    "weighted_empty_tiles": {
+        "highest_score": 7096,
+        "top_value": 512,
+        "most_moves": 486,
+        "average_score": 2914.88,
+        "average_top_value": 222.72,
+        "average_moves": 249.46
+    },
+    "smoothness": {
+        "highest_score": 7048,
+        "top_value": 512,
+        "most_moves": 479,
+        "average_score": 2440.16,
+        "average_top_value": 221.44,
+        "average_moves": 206.98
+    },
+    "edge_weight": {
+        "highest_score": 4340,
+        "top_value": 256,
+        "most_moves": 357,
+        "average_score": 2462.0,
+        "average_top_value": 186.88,
+        "average_moves": 221.92
+    },
+    "smooth_weighted_empty": {
+        "highest_score": 7128,
+        "top_value": 512,
+        "most_moves": 494,
+        "average_score": 3734.8,
+        "average_top_value": 316.16,
+        "average_moves": 286.82
+    },
+    "smooth_weighted_empty_max_empty": {
+        "highest_score": 7180,
+        "top_value": 512,
+        "most_moves": 495,
+        "average_score": 4106.32,
+        "average_top_value": 345.6,
+        "average_moves": 307.14
+    }
+}
